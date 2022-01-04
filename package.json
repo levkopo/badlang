@@ -1,0 +1,23 @@
+{
+  "name": "badlang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antlr4": "^4.9.2"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^5.52.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
